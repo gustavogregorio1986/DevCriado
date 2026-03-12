@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ParImpar/ParImpar.csproj" />
+  <Project Path="ProgramacaoOO/ProgramacaoOO.csproj" />
+  <Project Path="Tabuada/Tabuada.csproj" />
+</Solution>
