@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Heranca/Heranca.csproj" Id="66efa4a6-c9f3-4e22-8188-659ff5dcaa01" />
+  <Project Path="Matriz/Matriz.csproj" Id="d57f4ebb-b892-4f40-8625-a98fb89c9dc4" />
   <Project Path="ParImpar/ParImpar.csproj" />
   <Project Path="ProgramacaoOO/ProgramacaoOO.csproj" />
   <Project Path="Tabuada/Tabuada.csproj" />
