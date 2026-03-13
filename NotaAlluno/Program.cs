@@ -59,6 +59,14 @@ class Program
         Console.WriteLine($"Média: {controlar.MediaAluno(leni)}");
         Console.WriteLine($"Situação: {controlar.SituacaoAluno(leni)}");
 
-        Console.ReadLine();
+        List<Aluno> listaAluno = new List<Aluno>();
+        listaAluno.Add(marina);
+        listaAluno.Add(luiz);
+        listaAluno.Add(leni);
+
+        foreach(var aluno in listaAluno)
+        {
+            Console.WriteLine("Aluno: " + aluno);
+        }
     }
 }
