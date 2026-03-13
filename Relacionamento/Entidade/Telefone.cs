@@ -11,5 +11,16 @@ namespace Relacionamento.Entidade
         public string Tipo { get; set; }
 
         public string Numero { get; set; }
+
+        public Telefone(string tipo, string numero)
+        {
+            this.Tipo = tipo;
+            this.Numero = numero;
+        }
+
+        public override string ToString()
+        {
+            return Tipo + "," + Numero;
+        }
     }
 }
