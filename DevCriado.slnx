@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Calculadora/Calculadora.csproj" Id="3f51167f-05d2-49ee-a892-22d8ed86ab11" />
+  <Project Path="Condicao/Condicao.csproj" Id="80705424-a6c7-4db9-9ebe-53a5ec7c3d9d" />
   <Project Path="Heranca/Heranca.csproj" Id="66efa4a6-c9f3-4e22-8188-659ff5dcaa01" />
   <Project Path="Listar/Listar.csproj" Id="3bf76fa1-7005-4e37-a5a4-f845f99abf35" />
   <Project Path="Matriz/Matriz.csproj" Id="d57f4ebb-b892-4f40-8625-a98fb89c9dc4" />
@@ -8,5 +9,6 @@
   <Project Path="ParImpar/ParImpar.csproj" />
   <Project Path="ProgramacaoOO/ProgramacaoOO.csproj" />
   <Project Path="Relacionamento/Relacionamento.csproj" Id="bfa64d18-122f-4756-9869-489d9230518f" />
+  <Project Path="SwitchCase/SwitchCase.csproj" Id="2c08b9b0-e038-4827-97e3-70700e103230" />
   <Project Path="Tabuada/Tabuada.csproj" />
 </Solution>
