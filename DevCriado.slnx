@@ -4,6 +4,7 @@
   <Project Path="Calculadora/Calculadora.csproj" Id="3f51167f-05d2-49ee-a892-22d8ed86ab11" />
   <Project Path="Condicao/Condicao.csproj" Id="80705424-a6c7-4db9-9ebe-53a5ec7c3d9d" />
   <Project Path="Dama/Dama.csproj" Id="ebe69507-edc0-48f2-a372-85e27b515a62" />
+  <Project Path="DamaSimplificada/DamaSimplificada.csproj" Id="af8812c3-69b8-4db2-801b-423ee45a69f8" />
   <Project Path="Heranca/Heranca.csproj" Id="66efa4a6-c9f3-4e22-8188-659ff5dcaa01" />
   <Project Path="JogoCartasSimples/JogoCartasSimples.csproj" Id="2b415b8b-4884-4e6d-99f6-4264ff6e05b8" />
   <Project Path="JogoDadosSimples/JogoDadosSimples.csproj" Id="0c5049dd-e61b-4167-9757-79c68a089f84" />
