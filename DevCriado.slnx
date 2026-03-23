@@ -1,7 +1,13 @@
 <Solution>
+  <Project Path="BatalhaRPG/BatalhaRPG.csproj" Id="52d43a11-a632-4aa3-b228-2c34c8da82bb" />
+  <Project Path="BingoComLinq/BingoComLinq.csproj" Id="21ddf00f-c54b-4beb-91ba-116f2edd3d63" />
   <Project Path="Calculadora/Calculadora.csproj" Id="3f51167f-05d2-49ee-a892-22d8ed86ab11" />
   <Project Path="Condicao/Condicao.csproj" Id="80705424-a6c7-4db9-9ebe-53a5ec7c3d9d" />
+  <Project Path="Dama/Dama.csproj" Id="ebe69507-edc0-48f2-a372-85e27b515a62" />
   <Project Path="Heranca/Heranca.csproj" Id="66efa4a6-c9f3-4e22-8188-659ff5dcaa01" />
+  <Project Path="JogoCartasSimples/JogoCartasSimples.csproj" Id="2b415b8b-4884-4e6d-99f6-4264ff6e05b8" />
+  <Project Path="JogoDadosSimples/JogoDadosSimples.csproj" Id="0c5049dd-e61b-4167-9757-79c68a089f84" />
+  <Project Path="JogoDeAdivinhacao/JogoDeAdivinhacao.csproj" Id="e40d815c-8f1a-4676-ba69-01206ad104fe" />
   <Project Path="LINQClasse/LINQClasse.csproj" Id="8a01330e-2f6d-4087-b4fa-a470214818a2" />
   <Project Path="Listar/Listar.csproj" Id="3bf76fa1-7005-4e37-a5a4-f845f99abf35" />
   <Project Path="Matriz/Matriz.csproj" Id="d57f4ebb-b892-4f40-8625-a98fb89c9dc4" />
@@ -9,6 +15,7 @@
   <Project Path="NotaAlluno/NotaAlluno.csproj" Id="9d54faaf-5aed-450c-b9a2-61d204168988" />
   <Project Path="ParImpar/ParImpar.csproj" />
   <Project Path="ProgramacaoOO/ProgramacaoOO.csproj" />
+  <Project Path="RankingDeJogadores/RankingDeJogadores.csproj" Id="73873132-bd1c-4f1b-948f-105ea6397d9e" />
   <Project Path="Relacionamento/Relacionamento.csproj" Id="bfa64d18-122f-4756-9869-489d9230518f" />
   <Project Path="SwitchCase/SwitchCase.csproj" Id="2c08b9b0-e038-4827-97e3-70700e103230" />
   <Project Path="Tabuada/Tabuada.csproj" />
